@@ -6,9 +6,9 @@ Railway是一个提供弹性部署方案的平台，服务器在海外，方便M
 
 ### 1. Fork本仓库
 ### 2. Railway使用github账号登录
-进入 [railway官网](https://railway.app) 选择 `Login` -> `Github`，登录github账号
+进入 [railway官网](https://railway.app?referralCode=__0kTj) 选择 `Login` -> `Github`，登录github账号
 
-### 3. [New Project](https://railway.app/new) 添加对fork仓库的授权
+### 3. [New Project](https://railway.app/new?referralCode=__0kTj) 添加对fork仓库的授权
 ![railway_img_1](./railway_img_1.png)
 ![railway_img_2](./railway_img_2.png)
 ![railway_img_3](./railway_img_3.png)
